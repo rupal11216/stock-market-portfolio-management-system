@@ -8,7 +8,6 @@ To build a structured database that supports portfolio tracking, stock transacti
 
 ## Tools & Technologies
 - SQL
-- PL/SQL
 - Relational Database Design
 - ER Modeling
 - Data Normalization
@@ -28,3 +27,4 @@ To build a structured database that supports portfolio tracking, stock transacti
 
 ## Use Case
 This project simulates a simplified stock market portfolio management system similar to those used by brokerage and investment platforms.
+
