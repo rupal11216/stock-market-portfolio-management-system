@@ -7,7 +7,7 @@ A relational database system designed to manage stock market portfolios, investo
 To build a structured database that supports portfolio tracking, stock transactions, and performance evaluation.
 
 ## Tools & Technologies
-- SQL
+- PL/SQL
 - Relational Database Design
 - ER Modeling
 - Data Normalization
